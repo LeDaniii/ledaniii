@@ -12,4 +12,4 @@ So I decided to do this by my own.
 - 💬 Ask me about Special machine assembly, electric motors, automation.
 - 📫 How to reach me: danielmatzer@gmail.com
 - 😄 Pronouns: Him/his....honestly don't care
-- ⚡ Fun fact: programming is like speacial machine assembly, you put parts together and if something is going wrong it will be a absolutely shi-show XD
+- ⚡ Fun fact: programming is like speacial machine assembly, you put parts together and if something is going wrong it will be an absolutely shi-show XD
