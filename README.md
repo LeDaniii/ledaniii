@@ -1,15 +1,5 @@
-### What's Up 👋
-
-Hi, I am Daniel aka LeDaniii. I am an Automation technician usally travelling arround the world to lead assembly teams.
-Covid gave me the opportunity to get educational leave for enrolling into a coding bootcamp named CodeFactory.
-I am doing this because i have some idias for my workspace but sadly software is often too expensive for a middle-sized company.
-So I decided to do this by my own.
-
-- 🔭 I’m currently working on a management-hub for special machine assembly.
-- 🌱 I’m currently learning literally everything.
-- 👯 I’m looking to collaborate on everything :)
-- 🤔 I’m looking for help with javascript, flutter and serversite languages.
-- 💬 Ask me about Special machine assembly, electric motors, automation.
-- 📫 How to reach me: danielmatzer@gmail.com
-- 😄 Pronouns: Him/his....honestly don't care
-- ⚡ Fun fact: programming is like speacial machine assembly, you put parts together and if something is going wrong it will be an absolutely shi-show XD
+👨‍💻 Software Engineer with 15+ years of hands-on experience in special machine assembly for automotive and heavy industries, now focusing on programming to create impactful software solutions.
+💻 Transitioned to a programming role 3 years ago, specializing in SCADA systems, automation, and durable software for industrial applications.
+📚 Dedicated to continuous learning, exploring innovative approaches to simplify integration and solve complex challenges.
+🎯 Passionate about building robust, future-proof software that improves lives and enhances workflows.
+🌍 Based in Austria, combining technical expertise with a mission to create meaningful tools for a better future.
