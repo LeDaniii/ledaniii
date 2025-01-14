@@ -1,3 +1,5 @@
+# Have you also played through the game called C#? I certainly haven’t.
+
 👨‍💻 Software Engineer with 15+ years of hands-on experience in special machine assembly for automotive and heavy industries, now focusing on programming to create impactful software solutions. <br>
 💻 Transitioned to a programming role 3 years ago, specializing in SCADA systems, automation, and durable software for industrial applications. <br>
 📚 Dedicated to continuous learning, exploring innovative approaches to simplify integration and solve complex challenges. <br>
