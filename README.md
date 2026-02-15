@@ -18,6 +18,10 @@ Specializing in **SCADA systems, industrial automation, and software that doesn'
 
 **`Craftsman | Developer | Hyperlapse Film Maker | Machine Builder`**
 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
+
 **Domain:** Industrial Automation · SCADA · MES · Manufacturing Quality Control
 
 ### Currently Building
