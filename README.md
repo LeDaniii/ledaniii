@@ -14,26 +14,25 @@ Specializing in **SCADA systems, industrial automation, and software that doesn'
 
 ### What I Work With
 
----
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,postgres,html,css,git,docker,webassembly,raspberrypi,vscode,tauri,visualstudio&theme=dark)](https://skillicons.dev)
 
-**`Craftsman | Developer | Hyperlapse Film Maker | Machine Builder`**
+![Industrial Automation](https://img.shields.io/badge/Industrial_Automation-2F3134?style=flat) ![SCADA](https://img.shields.io/badge/SCADA-2F3134?style=flat) ![MES](https://img.shields.io/badge/MES-2F3134?style=flat) ![Manufacturing Quality Control](https://img.shields.io/badge/Manufacturing_QC-2F3134?style=flat)
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-          
-
-**Domain:** Industrial Automation · SCADA · MES · Manufacturing Quality Control
-
-### Currently Building
+### Projects
 
 **[Project Eros](https://github.com/LeDaniii/Eros)** a high-performance real-time charting library. WebGPU rendering, SharedArrayBuffer ring buffers, WebWorkers per channel. Built to visualize 1M+ data points at 60fps because existing charting libraries tap out way before that.
 
-**[Gargantua](https://github.com/LeDaniii/Gargantua)** a vendor-agnostic translation layer between industrial PLCs and REST APIs. Hides S7, ADS, EtherNet/IP behind a single interface so your SCADA, MES, or analytics tool doesn't need to care what PLC it's talking to. Basically an interpreter for machines that refuse to speak the same language.
+**[Gargantua](https://github.com/LeDaniii/Gargantua)** *(waking up soon)* a vendor-agnostic translation layer between industrial PLCs and REST APIs. Hides S7, ADS, EtherNet/IP behind a single interface so your SCADA, MES, or analytics tool doesn't need to care what PLC it's talking to. Basically an interpreter for machines that refuse to speak the same language.
 
-**Assembler App** a manufacturing execution tool for multi-site assembly operations. Digital checklists, audit trails, AI-powered translation. Waiting in line behind the other two
+**Assembler App** *(on hold)* a manufacturing execution tool for multi-site assembly operations. Digital checklists, audit trails, AI-powered translation. Waiting in line behind the other two
 
-👨‍💻 From assembling machines that could probably outlive us all to crafting code that’s just as reliable. 15+ years in the automotive and heavy industries taught me how to build things right, now I’m applying that to software. <br>
-💻 Switched gears 3 years ago to become a programmer, specializing in SCADA systems, automation, and software that doesn’t crumble under pressure. <br>
-📚 Always learning, because solving complex problems is just a fancy way of saying, “Why not make life easier for everyone?” <br>
-🎯 Obsessed with creating future proof tools that actually help people, because who needs more useless apps? <br>
-🌍 Based in Austria, where the Schnitzels are oversized, the mountains are steep, and my pull requests are as dangerous as Arnold Schwarzenegger himself.
+---
+
+20-hour shifts to get a measurement machine back in spec before production starts at 6 AM were normal. So was disassembling machines at customer sites and quietly praying everything still works when you put it back together. You learn to stay calm when things go sideways. That part transfers surprisingly well to software.
+
+---
+
+Based in Austria, where the Schnitzels are oversized, the mountains are steep, and my pull requests are as dangerous as Arnold Schwarzenegger himself. Always happy to connect. Worst case, we talk about Schnitzels and Schnapps.
+
+[![Connect](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/danielmatzer) [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:danielmatzer@gmail.com)
+
