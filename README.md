@@ -24,14 +24,11 @@ Specializing in **SCADA systems, industrial automation, and software that doesn'
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webassembly/webassembly-original.svg" width="40" height="40" alt="WebAssembly" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="40" height="40" alt="Tauri" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="Visual Studio" />
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,postgres,html,css,git,docker,webassembly,raspberrypi,vscode,tauri,visualstudio&theme=dark)](https://skillicons.dev)
 
 ![Industrial Automation](https://img.shields.io/badge/Industrial_Automation-2F3134?style=flat) ![SCADA](https://img.shields.io/badge/SCADA-2F3134?style=flat) ![MES](https://img.shields.io/badge/MES-2F3134?style=flat) ![Manufacturing Quality Control](https://img.shields.io/badge/Manufacturing_QC-2F3134?style=flat)
 
