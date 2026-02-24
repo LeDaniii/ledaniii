@@ -14,6 +14,13 @@ Specializing in **SCADA systems, industrial automation, and software that doesn'
 
 ### What I Work With
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" />
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,postgres,html,css,git,docker,webassembly,raspberrypi,vscode,tauri,visualstudio&theme=dark)](https://skillicons.dev)
 
 ![Industrial Automation](https://img.shields.io/badge/Industrial_Automation-2F3134?style=flat) ![SCADA](https://img.shields.io/badge/SCADA-2F3134?style=flat) ![MES](https://img.shields.io/badge/MES-2F3134?style=flat) ![Manufacturing Quality Control](https://img.shields.io/badge/Manufacturing_QC-2F3134?style=flat)
