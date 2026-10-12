@@ -6,7 +6,7 @@
 
 **15+ years building machines** that could probably outlive us all. From precision welding to commissioning production lines across three continents. Heavy industries taught me how to build things right. Now I'm applying that to software.
 
-**3+ years as a developer** still not sure what breaks more often: my code or the machines I used to build. At least a `NullReferenceException` has a stack trace. A measurement machine that drifts 0.02mm because someone sneezed near it? Good luck debugging that.
+**4+ years as a developer** still not sure what breaks more often: my code or the machines I used to build. At least a `NullReferenceException` has a stack trace. A measurement machine that drifts 0.02mm because someone sneezed near it? Good luck debugging that.
 
 Specializing in **SCADA systems, industrial automation, and software that doesn't crumble under pressure**, because I've seen what happens when things crumble under pressure. Usually sparks are involved.
 
