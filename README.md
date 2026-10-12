@@ -38,7 +38,7 @@ Specializing in **SCADA systems, industrial automation, and software that doesn'
 
 **[Gargantua](https://github.com/LeDaniii/Gargantua)** *(waking up soon)* a vendor-agnostic translation layer between industrial PLCs and REST APIs. Hides S7, ADS, EtherNet/IP behind a single interface so your SCADA, MES, or analytics tool doesn't need to care what PLC it's talking to. Basically an interpreter for machines that refuse to speak the same language.
 
-**Assembler App** *(on hold)* a manufacturing execution tool for multi-site assembly operations. Digital checklists, audit trails, AI-powered translation. Waiting in line behind the other two
+**Assembler App** *(Currently 100% focus on it)* a manufacturing execution tool for multi-site assembly operations. Digital checklists, audit trails, AI-powered translation. Waiting in line behind the other two
 
 ---
 
