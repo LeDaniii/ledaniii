@@ -28,6 +28,7 @@ Specializing in **SCADA systems, industrial automation, and software that doesn'
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="40" height="40" alt="Tauri" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" alt="Rust"/>
 </p>
 
 ![Industrial Automation](https://img.shields.io/badge/Industrial_Automation-2F3134?style=flat) ![SCADA](https://img.shields.io/badge/SCADA-2F3134?style=flat) ![MES](https://img.shields.io/badge/MES-2F3134?style=flat) ![Manufacturing Quality Control](https://img.shields.io/badge/Manufacturing_QC-2F3134?style=flat)
